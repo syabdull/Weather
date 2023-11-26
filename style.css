@@ -24,8 +24,18 @@ header h1 {
   justify-content: center;
   margin-top: 15vh;
 }
+.temp p {
+  font-size: large;
+}
+h4 {
+  color: #ffff00;
+}
 .cont {
-  margin: 40px;
+  margin: 15px;
+  width: 200px;
+}
+.condition {
+  text-align: center;
 }
 .search_container {
   text-align: center;
